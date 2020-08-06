@@ -7,6 +7,9 @@
 ## Objectives
 
 - describe the differences between Linear and Binary Search algorithms
+    Linea search you iterate over every element in the collection.
+    Binary search can only be done on a sorted collection. You cut the list
+    in half each iteration by comp
 - define what runtime complexity is, differentiate between various classifications and categorize the performance of an algorithm using Big O notation
 - distinguish when to use, classify the performance, and implement code to conduct classic iterative sorting algorithms
 
